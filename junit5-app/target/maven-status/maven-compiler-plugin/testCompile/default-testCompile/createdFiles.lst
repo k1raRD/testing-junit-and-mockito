@@ -1,0 +1,10 @@
+com\k1rard\junit5app\models\CuentaTest$CuentaTestNombreSaldo.class
+com\k1rard\junit5app\models\CuentaTest$JavaVersionTest.class
+com\k1rard\junit5app\models\CuentaTest$PruebasRepetitivas.class
+com\k1rard\junit5app\models\CuentaTest$PruebasTimeout.class
+com\k1rard\junit5app\models\CuentaTest.class
+com\k1rard\junit5app\models\CuentaTest$SistemPropertiesTest.class
+com\k1rard\junit5app\models\CuentaTest$PruebasParametrizadas.class
+com\k1rard\junit5app\models\CuentaTest$VariableAmbienteTest.class
+com\k1rard\junit5app\models\CuentaTest$CuentaOperacionesTest.class
+com\k1rard\junit5app\models\CuentaTest$SystemaOperativoTest.class

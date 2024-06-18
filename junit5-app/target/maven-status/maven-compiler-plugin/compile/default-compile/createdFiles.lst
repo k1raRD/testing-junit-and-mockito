@@ -1,0 +1,3 @@
+com\k1rard\junit5app\models\Banco.class
+com\k1rard\junit5app\models\Cuenta.class
+com\k1rard\junit5app\exceptions\DineroInsuficienteException.class

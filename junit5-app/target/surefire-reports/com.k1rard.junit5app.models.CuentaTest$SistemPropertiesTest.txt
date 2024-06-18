@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.k1rard.junit5app.models.CuentaTest$SistemPropertiesTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.032 s -- in com.k1rard.junit5app.models.CuentaTest$SistemPropertiesTest
